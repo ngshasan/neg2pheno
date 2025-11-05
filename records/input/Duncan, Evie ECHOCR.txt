@@ -1,0 +1,171 @@
+TRANSTHORACIC ECHO REPORT
+
+IU Health Methodist 1701 North Senate Blvd Indianapolis, IN 46202
+
+Patient Info
+Name:
+Exam Date:	9/27/2025 11:35 AM
+
+FIN#;
+
+001321093492
+
+Ordering Physician: Sonographer:
+
+Colton B Houchin Teresa Roembke
+
+Ht (cm):
+BP:
+157
+Wt (kg): 102
+103 / 54 mmHg
+Exam Type:
+
+Echocardiogram with Cardiac Doppler PW/CW/Color
+Indications:
+
+Code
+Description
+
+Chest Pain
+Chest Pain
+CPT:
+
+o [93306] Complete Echo with Doppler.
+
+Procedure(s)
+2D, M-mode, spectral Doppler, color Doppler.
+Summary
+1. Left ventricular systolic function is severely reduced with an ejection fraction by Teichholz Method of 11 %.
+2. Left ventricular chamber dimension is severely enlarged.
+3. Global left ventricular hypokinesis.
+4. Mild left atrial dilatation.
+5. There is moderate to severe mitral valve regurgitation.
+6. Right ventricular systolic function is reduced.
+7. There is no pericardia! effusion.
+8. Dilated inferior vena cava with <50% collapse upon inspiration.
+9. Right ventricular systolic pressure is 56 mmHg, consistent with moderate pulmonary hypertension.
+
+Technical Quality: Left Ventricle
+
+Technically fair study images
+
+Left ventricular systolic function is severely reduced with an ejection fraction by Teichholz Method of 11 %.
+Left ventricular chamber dimension is severely enlarged.
+Normal left ventricular wall thickness.
+Inconclusive diastolic waveform pattern.
+Global left ventricular hypokinesis.
+
+Right Ventricle
+
+Right ventricular size normal.
+Right ventricular systolic function is reduced.
+An !CD/pacemaker wire is seen in the right ventricle.
+
+Left Atrium
+
+Mild left atrial dilatation.
+
+Right Atrium
+
+Normal right atrial size.
+
+Aortic Valve
+
+The aortic valve is not well visualized.
+There is no significant aortic valve regurgitation.
+There is no significant aortic valve stenosis.
+
+Mitral Valve
+
+There is no significant mitral valve stenosis.
+There is moderate to severe mitral valve regurgitation.
+Posteriorly directed mitral valve regurgitation.
+
+Tricuspid Valve
+
+The tricuspid valve is not well visualized.
+There is no significant tricuspid valve stenosis.
+There is mild to moderate tricuspid valve regurgitation.
+Right ventricular systolic pressure estimated to be_ mmHg.
+Estimated right atrial pressure is elevated (15 mmHg).
+Right ventricular systolic pressure is 56 mm Hg, consistent with moderate pulmonary hypertension.
+
+Pulmonic Valve
+
+The pulmonic valve is not well visualized.
+There is no significant pulmonic valve stenosis.
+There is trace pulmonic regurgitation.
+
+Aorta
+
+The aortic root at the sinus of valsalva is not well visualized.
+The prox ascending aorta is not well visualized.
+
+Inferior Vena Cava
+
+Dilated inferior vena cava with <50% collapse upon inspiration consistent with elevated right atrial pressure, 15 mm Hg.
+Dilated inferior vena cava with <50% collapse upon inspiration.
+
+Pericardium/Pleural
+
+There is no pericardia! effusion.
+
+Ventricles
+
+i
+
+Atria
+Value	Normal	ame	Value	Normal
+Dimensions
+LA Diameter AP	5.0 cm
+
+38.3 cm2
+
+Index
+
+LA V ume Index
+
+(4C MOD)
+
+LA Volume Index (2C MOD)
+
+Dimensions
+Area
+
+Left Ventricular Outflow Tract
+
+LVOT Diameter	2.1 cm
+VOTDoppler
+LVOT VTI	16.4 cm
+LVOT Stroke Volume 57.7 ml LVOT Mean Gradient	1.7mm
+Aortic Valve
+ame	Value	Normal	ame	Value	Normal
+V Doppler
+224
+
+AV Mean Gradient	11.4mm
+
+AVVTI	40.8 cm
+
+(VTI)
+
+V Regurgitation 2D
+LVOT Area	3.5 cm2
+
+Tricuspid Valve
+Value	Normal	ame	Value	Normal
+Regurgitation Doppler
+eak V ocity	320 cm/s	!,280	TR Peak Gradient	41.1 mmHg
+ated PAP/RSVP
+RA Pressure
+
+RV
+<36
+PA
+'
+
+Report Signatures
+Finalized by lsraa AI-Gburi on 09/27/2025 01:18 PM
+
+

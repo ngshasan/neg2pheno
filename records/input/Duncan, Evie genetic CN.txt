@@ -1,0 +1,64 @@
+
+Subjective
+is a 44yoF with HFrEF, dilated cardiomyopathy, frequent PVCs and atrial tachycardia s/p ablation.
+Medical History: No significant childhood illnesses, developmental delays, or learning difficulties.
+developed postpartum cardiomyopathy after her fourth pregnancy in 2015. Initial echo showed severe LV dilation, moderately reduced LV systolic function with global hypokinesis, moderate LA dilation, and moderate mitral regurgitation. Stress test showed no ischemia. She has been on medical therapy since then. Earlier this year was noted to have frequent PVCs with monitor showing 18% PVC burden. She underwent atrial tachycardia ablation, PVC ablation, and ICD implantation earlier this month.
+She presented to the ED late last week with chest pain and shortness of breath. Echo showed EF of 11% down from 28% on echo prior to ablation. In addition to the reduced ejection fraction, echo this admission showing severely reduced ventricular systolic function, severely enlarged LV, global LV hypokinesis, mild LA dilation, moderate to severe mitral valve regurgitation, reduced RV systolic function, dilated IVC, and moderate pulmonary hypertension.
+denies any other significant medical diagnoses or chronic problems.
+Family History: One child with asthma One child with asthma and gestational diabetes One child with sickle cell disease (HbSC) One child is healthy None of her children have ever had echocardiograms. 7 siblings all of whom are relatively healthy Mom is deceased. She was diagnosed with congestive heart failure around age 50y. Dad is healthy
+Review of Systems
+As per HPI
+Physical Exam/Objective Vitals & Measurements last 24 hours
+T: 36.8 C (Oral) BP: 139/71 HR: 51 (Peripheral) SpO2: 98% Oxygen Therapy: Room air Oxygen Flow Rate: 2 (L/min) WT: 98.3 kg Hemodynamics Neurologic
+Glasgow Coma Score: 15
+Patient Weight
+Current Daily Weight: 98.3 kg 09/30/25 Previous Daily Weight: 98.3 kg 09/29/25 BMI: 41.3 09/27/25 Morbid Obesity (BMI > = 40)
+Patient Height Chronic Problem List
+Chronic systolic CHF (congestive heart failure), NYHA class 2 Dilated cardiomyopathy History of 2019 novel coronavirus disease (COVID-19) Morbid obesity
+Medications
+Home Medications (10) Active amiodarone 200 mg oral tablet See Instructions, Take 2 tablets by mouth daily until 10/27/2025. Then take 1 tablet by mouth daily Entresto 24 mg-26 mg oral tablet 1 Tablet, Orally, BID furosemide 40 mg oral tablet 40 mg = 1 Tablet, Orally, BID Jardiance 10 mg oral tablet 10 mg = 1 Tablet, Orally, QAM metoPROLOL succinate 50 mg oral tablet, extended release 50 mg = 1 Tablet, Orally, Daily multivitamin 1 Tablet, Orally, Daily ondansetron 8 mg oral tablet, disintegrating 8 mg = 1 Tablet, PRN, Orally, BID pantoprazole 40 mg oral delayed release tablet 40 mg = 1 Tablet, Orally, BID Poly Iron (as elemental iron) 150 mg oral capsule 150 mg = 1 Capsule, Orally, Daily spironolactone 25 mg oral tablet 25 mg = 1 Tablet, Orally, Daily
+Active Scheduled Inpatient Medications
+amiodarone, Tablet, 400 mg, Orally, Daily, Start: 09/27/25 17:30:00 empagliflozin, Tablet, 10 mg, Orally, Daily, Start: 09/27/25 17:00:00 enoxaparin, Injection, 40 mg, Subcutaneous, Q24H, Start: 09/27/25 19:00:00 furosemide (Lasix), Tablet, 40 mg, Orally, BID, Start: 09/28/25 09:00:00 metoPROLOL (metoPROLOL succinate), Tab, Extended Rel, 50 mg, Orally, Daily, Start: 10/01/25 09:00:00 multivitamin, Tablet, 1 Tablet, Orally, Daily, Start: 09/28/25 09:00:00 pantoprazole, Tab, Delayed Rel, 40 mg, Orally, Daily, Start: 09/28/25 09:00:00 sacubitril-valsartan (Entresto 24 mg-26 mg oral tablet), Tablet, 1 Tablet, Orally, BID, Start: 09/30/25 09:38:00 sodium ferric gluconate complex, Injection, 250 mg, IVPB, Daily, Start: 09/29/25 09:00:00 spironolactone, Tablet, 25 mg, Orally, Daily, Start: 09/27/25 17:30:00 Current Height: 157 cm 09/30/25
+Vent Settings -Last Documented
+Oxygen Therapy Room air 09/30/25 08:00:00
+I/O TOTALS ONLY -Last 24 hrs (0600-0559) from 09/29 -09/30
+Total Intake 500.00 mL Total Output 0.00 mL Balance 500.00 mL
+Lines, Tubes, and Drains
+IV cannula Forearm Left 20 gauge 45 mm PIV
+Code Status
+Resuscitation Status (Code Status) -Ordered
+--09/27/25 18:45:00 EDT, Full Code Constitutional: No acute distress, well-nourished Eyes: Extraocular motions intact, normal conjunctiva Neck: intact range of motion Respiratory: No increased work of breathing Gastrointestinal: non-distended Musculoskeletal: No joint swelling, no deformity, intact ROM Neurologic: Alert & Oriented x 3, no cognitive impairment, no focal deficits Psychiatric: Cooperative, appropriate mood and affect
+Assessment/Plan Acute decompensated heart failure I50.9 Chest pain R07.9 Dyspnea R06.00 Peripartum cardiomyopathy O90.3 PVC's (premature ventricular contractions) I49.3 is a 44yoF with HFrEF, dilated cardiomyopathy, frequent PVCs and atrial tachycardia s/p ablation.
+There are many known genes in which pathogenic/likely pathogenic variants increase an individuals likeliness to develop hypertrophic cardiomyopathy. While pregnancy is a known cause of heart failure, it is relatively rare, and genetic changes can also underlie cardiomyopathies that initially present in the peripartum period. Given 's age at diagnosis, progression despite maximal medical therapy, and the family history in her mother all raise my suspicion of an underlying genetic predisposition. Therefore, recommend comprehensive genetic testing at this time.
+We discussed that while genetic testing is very helpful, a negative result does not rule out an underlying genetic predisposition to cardiomyopathy as we do not understand what all of the human genes do. Therefore, given family history, 's children are at an increased risk of cardiomyopathy regardless of genetic testing results. Therefore, recommend screening echocardiograms for all children. This can be arranged through their pediatrician.
+Recommendations:
+1) Will proceed with whole genome sequencing. See GC note for consent documentation.
+2) Recommend screening echocardiograms for all of 's children.
+3) Follow up in CV genetics clinic per protocol.
+Staff: Dr. Umandap
+Miranda Garrett, MD Pediatrics-Medical Genetics, PGY-4 Available via Diagnotes
+I personally evaluated the patient and have reviewed the residents note.
+Patient Name:: 07/26/81
+Sodium Chloride 0.9% 500 mL IV Continuous Other -See Comments Dextrose 5% in Water 500 mL IV Continuous Other -See Comments Sodium Chloride 0.9% 250 mL IV Continuous Other -See Comments Sodium Chloride 0.9% 250 mL IV Continuous Other -See Comments Sodium Chloride 0.9% 250 mL IV Continuous Other -See Comments Sodium Chloride 0.9% 250 mL IV Continuous Other -See Comments Sodium Chloride 0.9% 250 mL IV Continuous Other -See Comments Sodium Chloride 0.9% 250 mL IV Continuous Other -See Comments
+One-Time Medications Given 09/29/25 00:00:00 TO 09/30/25 15:10:23
+magnesium sulfate, Infusion, 4 GM, IVPB, ONCE, (1 DOSE 09/29/25 11:39:00) metoPROLOL (metoPROLOL succinate), Tab, Extended Rel, 25 mg, Orally, ONCE, (1 DOSE 09/30/25 12:12:00)
+PRN Medications (0600 -0559) from 09/29 -09/30
+acetaminophen, 650 mg, Orally, Q6H, 0 Dose(s) calcium carbonate, 1,500 mg, Orally, TID, 0 Dose (s) calcium carbonate, 750 mg, Orally, TID, 0 Dose (s) ondansetron, 8 mg, Orally, Q6H, 0 Dose(s)
+Allergies
+NKA
+Social History
+Electronic Cigarette/Vaping E-Cigarette Use Never. Tobacco Tobacco Use: Never (less than 100 in lifetime).
+Lab Results
+All Labs Last 24 hours (No Micro or Pathology)
+Hematology: WBC: 6.5 k/cumm (09/30/25 03:07:00) RBC: 3.46 million/cumm Low (09/30/25 03:07:00) Hgb: 8.7 GM/dL Low (09/30/25 03:07:00) Hct: 25.5 % Low (09/30/25 03:07:00) MCV: 74 fL Low (09/30/25 03:07:00) MCH: 25 pg Low (09/30/25 03:07:00) MCHC: 34 GM/dL (09/30/25 03:07:00) RDW: 17.3 % High (09/30/25 03:07:00) Platelet: 248 k/cumm (09/30/25 03:07:00) MPV: 7.5 fL (09/30/25 03:07:00) Neutrophils %: 57 % (09/30/25 03:07:00) Lymphocytes %: 28 % (09/30/25 03:07:00) Monocytes %: 13 % (09/30/25 03:07:00) Eosinophils %: 2 % (09/30/25 03:07:00) Basophils %: 1 % (09/30/25 03:07:00)
+This case was discussed with the resident and I agree with the history, physical exam, and medical decision making as documented. I spent a total of 60 minutes with patient and family and >50% of that was spent in counseling and coordination of care as well as time spent on the date of visit on extensive records review, documentation, order entry and communication.
+Christine Umandap, MD Medical Genetics & Metabolism Available on Diagnotes
+Signature Line
+Electronically Signed on 09/30/25 15:10 EDT
+Garrett, Miranda C, MD, Resident
+Electronically Signed on 09/30/25 15:50 EDT
+Patient Name:: 07/26/81
+Absolute Neutrophil: 3.7 k/cumm (09/30/25 03:07:00) Absolute Lymphocyte: 1.8 k/cumm (09/30/25 03:07:00) Absolute Monocyte: 0.8 k/cumm (09/30/25 03:07:00) Absolute Eosinophil: 0.1 k/cumm (09/30/25 03:07:00) Absolute Basophil: 0 k/cumm (09/30/25 03:07:00) Chemistry: Sodium SerPl QN: 134 mmol/L Low (09/30/25 03:07:00) Potassium SerPl QN: 5 mmol/L (09/30/25 03:07:00) Chloride SerPl QN: 97 mmol/L Low (09/30/25 03:07:00) Carbon Dioxide SerPl QN: 31 mmol/L High (09/30/25 03:07:00) Anion Gap: 6 mmol/L (09/30/25 03:07:00) BUN SerPl QN: 17 mg/dL (09/30/25 03:07:00) Creatinine SerPl QN: 1.12 mg/dL (09/30/25 03:07:00) Estimated GFR (CKD-EPI, no race): 62 mL/min/1.73m2 (09/30/25 03:07:00) Estimated CRCL (CG): 71 mL/min (09/30/25 03:07:00) Glucose SerPl QN: 100 mg/dL High (09/30/25 03:07:00) Calcium Total SerPl QN: 9.5 mg/dL (09/30/25 03:07:00) Phosphorus SerPl QN: 5.1 mg/dL High (09/30/25 03:07:00) Alkaline Phos SerPl QN: 73 Units/L (09/30/25 03:07:00) ALT SerPl QN: 8 Units/L (09/30/25 03:07:00) AST SerPl QN: 23 Units/L (09/30/25 03:07:00) Bilirubin Total SerPl QN: 0.4 mg/dL (09/30/25 03:07:00) Total Protein SerPl QN: 7.7 GM/dL (09/30/25 03:07:00) Albumin SerPl QN: 4.1 GM/dL (09/30/25 03:07:00) Magnesium SerPl QN: 3.4 mg/dL High (09/30/25 03:07:00)
+Diagnostics Radiology Results -Last 24 hours Across Visits
+No radiology results found in the last 24 hours.
+Umandap, Christine Hope Galvero, MD

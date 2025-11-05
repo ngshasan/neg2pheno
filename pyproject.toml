@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "neg2pheno"
+version = "0.1.0"
+description = "NegEx + HPO extraction to TXT, then PhenoBERT annotation"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Md Mehadi Hasan" }, { name = "Contributors" }]
+keywords = ["NLP", "HPO", "negation", "clinical", "PhenoBERT"]
+dependencies = [
+  "pandas==2.2.2",
+  "spacy==3.7.5",
+  "negspacy==1.0.4",
+  "numpy<2.0",               # ABI pin
+  "tqdm>=4.66",
+  "nltk==3.9.1",
+  "stanza==1.5.0",
+  # torch CPU wheel is installed at runtime (see notes)
+]
+
+[project.optional-dependencies]
+obo = ["pronto>=2.5.6,<3.0"]   # needed only if you pass --hp_obo
+
+[project.scripts]
+negspacy-extract = "neg2pheno.cli_negspacy_extract:main"
+phenobert-annotate = "neg2pheno.cli_phenobert_annotate:main"
+neg2pheno = "neg2pheno.cli_neg2pheno:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+

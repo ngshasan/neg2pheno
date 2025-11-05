@@ -1,0 +1,43 @@
+package:
+  name: neg2pheno
+  version: 0.1.0
+
+source:
+  path: ..
+
+build:
+  noarch: python
+  script: {{ PYTHON }} -m pip install . -vv
+
+requirements:
+  host:
+    - python >=3.9
+    - pip
+    - setuptools
+    - wheel
+  run:
+    - python >=3.9
+    - pandas ==2.2.2
+    - spacy ==3.7.5
+    - negspacy ==1.0.4
+    - numpy <2.0
+    - tqdm >=4.66
+    - nltk ==3.9.1
+    - stanza ==1.5.0
+    # NOTE: pronto is optional; install with `pip install "neg2pheno[obo]"` if you use --hp_obo
+
+test:
+  commands:
+    - negspacy-extract -h
+    - phenobert-annotate -h
+    - neg2pheno -h
+
+about:
+  home: https://github.com/ngshasan/neg2pheno
+  license: MIT
+  summary: "NegEx + HPO extraction to TXT, then PhenoBERT annotation (CLI wrappers)."
+
+extra:
+  recipe-maintainers:
+    - ngshasan
+
