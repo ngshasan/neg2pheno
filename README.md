@@ -153,7 +153,9 @@ Licensed under the MIT License
 - **Mehadi Hasan**  
   Bioinformatics Scientist  
   Indiana University School of Medicine  
-  Indianapolis, Indiana, United States
+  Indianapolis, Indiana, United States  
+  📧 $user@iu.edu  
+  🔗 [GitHub: ngshasan](https://github.com/ngshasan)
 
 
 ### 🔗 GitHub: ngshasan
