@@ -150,10 +150,11 @@ Licensed under the MIT License
 
 ### 💻 Author
 
-Mehadi Hasan \n
-Bioinformatics Scientist \n
-Indiana University School of Medicine \n
-Indianapolis,Indiana,United States
+- **Mehadi Hasan**  
+  Bioinformatics Scientist  
+  Indiana University School of Medicine  
+  Indianapolis, Indiana, United States
+
 
 ### 🔗 GitHub: ngshasan
 
