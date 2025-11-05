@@ -143,18 +143,19 @@ wget -O /N/slate/$USER/ref/hpo/hp.obo https://purl.obolibrary.org/obo/hp.obo
 ### 🧾 Citation
 
 Hasan, M. (2025). neg2pheno: Automated NegEx and HPO Annotation Pipeline for Clinical Texts.
-Indiana University School of Medicine.
 
-🪪 License
+### 🪪 License
 
 Licensed under the MIT License
 
-
 ### 💻 Author
 
-Mehadi Hasan
-Bioinformatics Scientist, Indiana University School of Medicine
-🔗 GitHub: ngshasan
+Mehadi Hasan \n
+Bioinformatics Scientist \n
+Indiana University School of Medicine \n
+Indianapolis,Indiana,United States
+
+### 🔗 GitHub: ngshasan
 
 ```yaml
 Would you like me to add a short **“build_neg2pheno.sh”** helper script (one-click version of your full conda build + install process)? It’ll make future updates as easy as `bash build_neg2pheno.sh`.
