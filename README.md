@@ -1,13 +1,14 @@
-# neg2pheno
+## neg2pheno
+---
 
-# 🧬 neg2pheno
+### 🧬 neg2pheno
 
 **neg2pheno** is a unified command-line toolkit that connects **NegEx-based phenotype extraction** (via NegSpacy) and **HPO annotation** (via PhenoBERT).  
 It processes clinical text, removes negated or uncertain phenotypes, maps to **HPO terms**, and produces clean text files ready for analysis.
 
 ---
 
-## 🚀 Features
+### 🚀 Features
 
 - Detect **affirmed** phenotypic terms from raw text using NegSpacy  
 - Automatically exclude **negated** or **uncertain** mentions (NegEx algorithm)  
@@ -18,7 +19,7 @@ It processes clinical text, removes negated or uncertain phenotypes, maps to **H
 
 ---
 
-## ⚙️ Installation (HPC-Safe Conda Build Method)
+### ⚙️ Installation (HPC-Safe Conda Build Method)
 
 The following steps describe how to build and install `neg2pheno` cleanly in your own Slate directories.  
 This avoids permission issues on shared systems.
@@ -64,10 +65,10 @@ which negspacy-extract
 neg2pheno -h
 ```
 
-
 ### Example Usage
 
-NegEx Extraction Only
+#### 1) NegEx Extraction Only
+
 ```bash
 negspacy-extract \
   --in_dir /N/slate/$USER/scripts/negspacy/input \
@@ -84,7 +85,7 @@ negspacy-extract \
 /N/slate/$USER/scripts/negspacy/output/negex/ALL.hpo_affirmed.txt
 ```
 
-### 2) PhenoBERT Annotation Only
+#### 2) PhenoBERT Annotation Only
 
 ```bash
 phenobert-annotate \
@@ -95,18 +96,13 @@ phenobert-annotate \
 ```
 
 #### Output
+
 ```pgsql
 phenobert_output.txt
 phenobert_output.json
 ```
 
 ### 3) Full Pipeline (NegEx → PhenoBERT)
-
-module purge
-module load gnu/12.2.0
-module load sqlite/3.35.5
-source ~/miniconda3/etc/profile.d/conda.sh
-conda activate myenv
 
 ```bash
 module purge
