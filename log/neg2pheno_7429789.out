@@ -1,0 +1,1 @@
+>> Running: negspacy-extract --in_dir /N/slate/mh105/tools/neg2pheno/records/input --out_dir /N/slate/mh105/tools/neg2pheno/records/output --termset en_clinical --model en_core_web_sm --emit_txt --txt_mode lines --txt_subdir in --hp_obo /N/slate/mh105/tools/neg2pheno/ref/hpo/hp.obo

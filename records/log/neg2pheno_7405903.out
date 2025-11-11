@@ -1,0 +1,21 @@
+>> Running: negspacy-extract --in_dir /N/slate/mh105/tools/neg2pheno/records/input --out_dir /N/slate/mh105/tools/neg2pheno/records/output --termset en_clinical --model en_core_web_sm --emit_txt --txt_mode lines --txt_subdir in --hp_obo /N/slate/mh105/tools/neg2pheno/ref/hpo/hp.obo
+Traceback (most recent call last):
+  File "/N/u/mh105/Quartz/miniconda3/envs/myenv/bin/negspacy-extract", line 9, in <module>
+    sys.exit(main())
+  File "/N/u/mh105/Quartz/miniconda3/envs/myenv/lib/python3.10/site-packages/neg2pheno/cli_negspacy_extract.py", line 5, in main
+    _extract_main()
+  File "/N/u/mh105/Quartz/miniconda3/envs/myenv/lib/python3.10/site-packages/neg2pheno/negex_hpo_pipeline.py", line 167, in main
+    nlp = spacy.load(args.model)
+  File "/N/u/mh105/Quartz/miniconda3/envs/myenv/lib/python3.10/site-packages/spacy/__init__.py", line 52, in load
+    return util.load_model(
+  File "/N/u/mh105/Quartz/miniconda3/envs/myenv/lib/python3.10/site-packages/spacy/util.py", line 484, in load_model
+    raise IOError(Errors.E050.format(name=name))
+OSError: [E050] Can't find model 'en_core_web_sm'. It doesn't seem to be a Python package or a valid path to a data directory.
+Traceback (most recent call last):
+  File "/N/u/mh105/Quartz/miniconda3/envs/myenv/bin/neg2pheno", line 9, in <module>
+    sys.exit(main())
+  File "/N/u/mh105/Quartz/miniconda3/envs/myenv/lib/python3.10/site-packages/neg2pheno/cli_neg2pheno.py", line 40, in main
+    subprocess.check_call(extract_cmd)
+  File "/N/u/mh105/Quartz/miniconda3/envs/myenv/lib/python3.10/subprocess.py", line 369, in check_call
+    raise CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command '['negspacy-extract', '--in_dir', '/N/slate/mh105/tools/neg2pheno/records/input', '--out_dir', '/N/slate/mh105/tools/neg2pheno/records/output', '--termset', 'en_clinical', '--model', 'en_core_web_sm', '--emit_txt', '--txt_mode', 'lines', '--txt_subdir', 'in', '--hp_obo', '/N/slate/mh105/tools/neg2pheno/ref/hpo/hp.obo']' returned non-zero exit status 1.

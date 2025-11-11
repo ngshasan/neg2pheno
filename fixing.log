@@ -1,0 +1,12 @@
+# Option A (fast): install pronto in myenv
+
+source ~/miniconda3/etc/profile.d/conda.sh
+conda activate myenv
+conda install -y -c conda-forge pronto
+# sanity check
+python -c "import pronto; print('pronto OK')"
+
+
+Then re-submit your job.
+
+

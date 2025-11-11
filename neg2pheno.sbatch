@@ -3,15 +3,18 @@
 #SBATCH --mail-type=ALL
 #SBATCH --nodes=1
 #SBATCH --cpus-per-task=1
-#SBATCH --time=1:30:00
+#SBATCH --time=6:00:00
 #SBATCH --mem=8G
 #SBATCH -J neg2pheno
-#SBATCH -o /N/slate/mh105/tools/neg2pheno/records/log/neg2pheno_%j.out
-#SBATCH -e /N/slate/mh105/tools/neg2pheno/records/log/neg2pheno_%j.out
+#SBATCH -o /N/slate/mh105/tools/neg2pheno/log/neg2pheno_%j.out
+#SBATCH -e /N/slate/mh105/tools/neg2pheno/log/neg2pheno_%j.err
 #SBATCH -A r00269
-#SBATCH --array=1
 
+# set error guard
 set -euo pipefail
+
+# config
+NT=${SLURM_CPUS_PER_TASK:-24}
 
 NEG2PHENO_ENV=myenv
 
@@ -37,4 +40,5 @@ neg2pheno \
   --txt_mode lines \
   --phenobert_root /N/slate/mh105/scripts/PhenoBERT \
   -t 8
+
 
